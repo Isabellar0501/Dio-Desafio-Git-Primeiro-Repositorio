@@ -1,0 +1,5 @@
+Primeiros comentarios sobre curso Git
+
+Apredizagem
+Ate o momento aprendi sobre como fazer commit e push 
+e noçôes de Java e IDE 
