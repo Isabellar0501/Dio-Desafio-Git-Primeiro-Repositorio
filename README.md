@@ -1,3 +1,6 @@
 > :construction: Projeto em construção :construction:
-# Dio-Desafio-Git-Primeiro-Repositorio
-Desafio de Projeto Git/GitHub
+> ## :hammer: Funcionalidades do projeto
+
+- `Dio `:Primeiro Desafio de Git da plataforma DIO
+- `Apredizagen`: Como utilizar o Git e o GitHub para fazer Commit e Push.
+
